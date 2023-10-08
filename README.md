@@ -10,7 +10,7 @@
 <p align="center">
 </p> 
 
-- 🏢 I'm a Spring Boot Backend Developer and Data Analyst
+- 🏢 I'm a Backend Developer and Data Analyst
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
 
