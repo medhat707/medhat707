@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Ahmed Abdelbary's profile!
+  Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -10,8 +10,7 @@
 <p align="center">
 </p> 
 
-- 🏢 I'm a Backend Developer and Data Analyst
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a Software Engineer who loves building software applications
 
 
 ### Connect with Me :
